@@ -5,7 +5,7 @@ blog-app is a Spring Boot RESTful web service
 
 Prerequisites for this project:
 * Eclipse or IntelliJ
-* JDK 11 and Maven
+* JDK11 and Maven
 * Postman or SoapUI
 
 How to run app:
